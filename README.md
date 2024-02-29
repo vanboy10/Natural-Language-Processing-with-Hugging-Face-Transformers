@@ -5,7 +5,6 @@ This project showcases various Natural Language Processing (NLP) applications us
 ## Mentee Info ℹ️
 **Name**:  𝓹𝓪𝓻𝓶𝓸𝓷𝓪𝓷𝓰 𝓿𝓪𝓷𝓫𝓸𝔂
 𝗣𝗿𝗼𝗴𝗿𝗮𝗺: 𝗜𝗕𝗠 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗔𝗹
-
 ## Examples
 
 ### 1. Sentiment Analysis 📊
