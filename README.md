@@ -3,9 +3,8 @@
 This project showcases various Natural Language Processing (NLP) applications using different techniques and models.
 
 ## Mentee Info ℹ️
-
-- **Name**:  𝓹𝓪𝓻𝓶𝓸𝓷𝓪𝓷𝓰 𝓿𝓪𝓷𝓫𝓸𝔂
-- **Program**:  𝓘𝓑𝓜 𝓐𝓭𝓿𝓪𝓷𝓬𝓮 𝓐𝓵
+**Name**:  𝓹𝓪𝓻𝓶𝓸𝓷𝓪𝓷𝓰 𝓿𝓪𝓷𝓫𝓸𝔂
+𝗣𝗿𝗼𝗴𝗿𝗮𝗺: 𝗜𝗕𝗠 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗔𝗹
 
 ## Examples
 
