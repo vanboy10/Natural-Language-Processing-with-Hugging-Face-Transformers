@@ -1,6 +1,6 @@
-# NLPExample 📚
+# NLPExample # 📚
 
-This project showcases various Natural Language Processing (NLP) applications using different techniques and models.
+##This project showcases various Natural Language Processing (NLP) applications using different techniques and models.##
 
 ## Mentee Info ℹ️
 **Name**:  𝓹𝓪𝓻𝓶𝓸𝓷𝓪𝓷𝓰 𝓿𝓪𝓷𝓫𝓸𝔂
